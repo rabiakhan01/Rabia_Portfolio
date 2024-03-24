@@ -15,7 +15,6 @@ import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
-import project1 from "./assets/images/projects/service_1.png";
 import project2 from "./assets/images/projects/service_2.png";
 import project3 from "./assets/images/projects/service_3.png";
 import person_project from "./assets/images/projects/person.png";
